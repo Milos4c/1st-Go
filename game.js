@@ -1,4 +1,4 @@
-var name = prompt('what is your name?');
+var name = prompt('hello, what is your name?');
 
 if (name == "Alex") {
 	alert('yo');
